@@ -1,0 +1,4 @@
+NAMA 	: Zaenal Mutakin
+NPM 	: 1406132
+PRODI 	: Teknik Informatika "C"
+STTGARUT
